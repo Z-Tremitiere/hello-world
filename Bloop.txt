@@ -1,0 +1,5 @@
+wow= raw_input("good morning, say hello: ")
+print wow 
+if wow= "good morning" or "Good Morning":
+	print("okay!) 
+	
